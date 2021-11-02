@@ -381,7 +381,7 @@ nav{
 .card-homef { grid-area: 1 / 4 / 2 / 5; } 
 
 .fitness-card  .card-strf{
-    background-image: url(./assets/images/strength.jpg) !important;
+    background-image: url(./assets/images/strength.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 10% center;
@@ -413,7 +413,7 @@ nav{
 
 
 .fitness-card  .card-cardiof{
-    background-image: url(./assets/images/cardio.jpg) !important;
+    background-image: url(./assets/images/cardio.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -446,7 +446,7 @@ nav{
 
 
 .fitness-card  .card-flexibilityf{
-    background-image: url(./assets/images/flexibility.jpg) !important;
+    background-image: url(./assets/images/flexibility.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 70% center;
@@ -479,7 +479,7 @@ nav{
 
 
 .fitness-card  .card-homef{
-    background-image: url(./assets/images/home.jpg) !important;
+    background-image: url(./assets/images/home.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
