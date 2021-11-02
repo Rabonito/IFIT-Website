@@ -509,9 +509,6 @@ nav{
     font-weight: var(--fw-normal);
     font-size: clamp(1rem, 2vw, 11px);
 }
-.fitness-container .card{
-    max-width: fit-content;
-}
 
 @media all and (max-width: 1100px) {
     .fitness-card {
